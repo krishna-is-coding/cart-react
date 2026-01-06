@@ -1,0 +1,1 @@
+{"mappings":"AAAA,SAAS;IACL,SAAS,cAAc,CAAC,SAAS,SAAS,GAAG;AACjD","sources":["app.js"],"sourcesContent":["function changeText() {\r\n    document.getElementById(\"title\").innerHTML = \"You clicked the button!\";\r\n}\r\n"],"names":[],"version":3,"file":"namaste-krishna.7c0ccee6.js.map","sourceRoot":"/__parcel_source_root/"}
